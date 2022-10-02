@@ -1,0 +1,9 @@
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\bin\Debug\Checkers.pdb
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\obj\Debug\Checkers.csprojAssemblyReference.cache
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\obj\Debug\Checkers.Properties.Resources.resources
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\obj\Debug\Checkers.csproj.GenerateResource.cache
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\obj\Debug\Checkers.csproj.CoreCompileInputs.cache
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\obj\Debug\Checkers.exe
+C:\Users\artem\Local_documents\University\Programming\Semester 1\Checkers_temporary\Checkers\Checkers\obj\Debug\Checkers.pdb
